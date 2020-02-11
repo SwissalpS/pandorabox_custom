@@ -35,6 +35,9 @@ dofile(MP.."/privs.lua")
 -- death message
 dofile(MP.."/death.lua")
 
+-- toggle_shout command
+dofile(MP.."/shout.lua")
+
 -- travel stuff
 dofile(MP.."/travel/travel.lua")
 dofile(MP.."/teleport_back.lua")
